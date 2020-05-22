@@ -14,7 +14,7 @@ Note: If you want to integrate this library to existed project, please install <
 
 | Name          | Type            | DataType | Description | Default |
 | :------------ |:---------------:| :-----:  | :-----:     | :-----:|
-| imageSize     | @Input          | object   | `{width: '400px', height: '300px', space: 4}` or `{width: '20%', height: '20%'}` OR `{space: 4}`  | `{width: 205, height: 200, space: 3}` |
+| imageSize     | @Input          | object   | `{width: '400px', height: '300px', space: 4}` or `{width: '20%', height: '20%'}` or `{space: 4}`  | `{width: 205, height: 200, space: 3}` |
 | manageImageRatio | @Input       | boolean  |   `true` or `false` | `false` |
 
 ### Used Directive
