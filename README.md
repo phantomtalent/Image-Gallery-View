@@ -3,7 +3,7 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.3.
 
 ## Using Angular Image Slider with Lightbox Library
-Note: If you want to integrate this library to existed project, please install
+Note: If you want to integrate this library to existed project, please install <br />
 `npm install ng-image-slider --save`
 
 ## Installation
@@ -13,7 +13,7 @@ Note: If you want to integrate this library to existed project, please install
 ### Used API Reference
 
 | Name          | Type            | DataType | Description | Default |
-| :------------ |:---------------:| :-----:  | :-----:     | -----:|
+| :------------ |:---------------:| :-----:  | :-----:     | :-----:|
 | imageSize     | @Input          | object   | `{width: '400px', height: '300px', space: 4}` or `{width: '20%', height: '20%'}` OR `{space: 4}`  | `{width: 205, height: 200, space: 3}` |
 | manageImageRatio | @Input       | boolean  |   `true` or `false` | `false` |
 
