@@ -1,0 +1,7 @@
+<div *ngFor="let list of images" class="image-list">
+  <ng-image-slider
+    [images]="list"
+    [imageSize]="{ width: mobile ? '32%' : '19%', height: 'auto', space: mobile ? 2 : 3 }"
+    [manageImageRatio]="true"
+  ></ng-image-slider>
+</div>
