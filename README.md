@@ -23,7 +23,7 @@ Note: If you want to integrate this library to existed project, please install <
 
 ## Setup:
 
-### Import module in your app.module.ts:
+### Import image slider module in your app.module.ts:
 
 ```
 import { NgImageSliderModule } from 'ng-image-slider';
