@@ -21,6 +21,10 @@ Note: If you want to integrate this library to existed project, please install <
 
 `*ngFor`
 
+## Development server
+
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+
 ## Setup:
 
 ### Import image slider module in your app.module.ts:
@@ -96,9 +100,6 @@ public get mobile() {
   return window.innerWidth < 992;
 }
 ```
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 ## Code scaffolding
 
